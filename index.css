@@ -1,0 +1,14 @@
+header {
+    background-color: #ffff56;
+    color: #000;
+    text-align: center;
+    padding: 5px;
+    width: 100%;
+    font: 500 20px 'Roboto';
+}
+
+body {
+    text-align: center;
+    font: 400 15px 'Roboto';
+    background-color: #ffffca;
+}
